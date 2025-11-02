@@ -11,9 +11,9 @@ You can find my main active profile here:
 
 ---
 
-### Contact
+### 🌐 Contact Me : 
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/Dark-Vinaal">
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
