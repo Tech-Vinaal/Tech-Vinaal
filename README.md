@@ -11,6 +11,23 @@ You can find my main active profile here:
 
 ---
 
+### Contact
+
+<div align="center">
+
+<a href="https://github.com/Dark-Vinaal">
+  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/vinaal/">
+  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
+</a>
+<a href="https://linktr.ee/Darkxzz999">
+  <img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=linktree&logoColor=0A0209" alt="Linktree" />
+</a>
+<br>
+
+---
+
 ### ⚙️ Purpose & Usage  
 - 🧠 **Backup Repositories:** Mirrors or duplicates of key projects from my main account.  
 - 🧰 **Testing Zone:** Used for GitHub Actions, automation scripts, deployment workflows, and experiments before applying to production repositories.  
@@ -42,18 +59,6 @@ However, you may find early prototypes, automation logic, and workflow samples h
 🔗 **Main Account:** [github.com/Dark-Vinaal](https://github.com/Dark-Vinaal)  
 📫 **Contact:** [via Main Profile → Discussions/Issues](https://github.com/Dark-Vinaal)  
 💻 **Current Focus:** Full-Stack Development, Automation, and System Design  
-
-<div align="center">
-
-<a href="https://github.com/Dark-Vinaal">
-  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/vinaal/">
-  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
-</a>
-<a href="https://linktr.ee/Darkxzz999">
-  <img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=linktree&logoColor=0A0209" alt="Linktree" />
-</a>
 
 ---
 
