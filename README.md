@@ -24,6 +24,7 @@ You can find my main active profile here:
 <a href="https://linktr.ee/Darkxzz999">
   <img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=linktree&logoColor=0A0209" alt="Linktree" />
 </a>
+</div>
 <br>
 
 ---
