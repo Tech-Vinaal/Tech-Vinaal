@@ -60,7 +60,7 @@ However, you may find early prototypes, automation logic, and workflow samples h
 ### 🌐 Quick Links  
 🔗 **Main Account:** [github.com/Dark-Vinaal](https://github.com/Dark-Vinaal)  
 📫 **Contact:** [via Main Profile → Discussions/Issues](https://github.com/Dark-Vinaal)  
-💻 **Current Focus:** Full-Stack Development, Automation, and System Design  
+💻 **Current Focus:** Full-Stack Development, Web Design, Software Developement, Editing, Gaming..  
 
 ---
 
