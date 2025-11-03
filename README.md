@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](https://github.com/Tech-Vinaal/Tech-Vinaal/blob/main/tech-banner.png)
 
 ## 💾 Backup GitHub Account of [Dark-Vinaal](https://github.com/Dark-Vinaal)
 
