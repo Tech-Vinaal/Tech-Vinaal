@@ -1,5 +1,9 @@
 ![](https://github.com/Tech-Vinaal/Tech-Vinaal/blob/main/tech-banner.png)
 
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 ## 💾 Backup GitHub Account of [Dark-Vinaal](https://github.com/Dark-Vinaal)
 
 ### 🧩 About This Account  
@@ -67,4 +71,6 @@ However, you may find early prototypes, automation logic, and workflow samples h
 
 ![](https://count.getloli.com/get/@Tech-Vinaal.github.readme)
 
----
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
